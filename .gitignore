@@ -1,2 +1,6 @@
 /.vs
+/bin
+/admin
+/config
+*.sass
 readme.txt
